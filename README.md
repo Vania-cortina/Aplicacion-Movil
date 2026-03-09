@@ -164,4 +164,5 @@ El proyecto sigue buenas prácticas en:
 
 # 👩‍💻 Autor
 Cortina Chavez Vania
+
 Proyecto desarrollado como aplicación móvil utilizando **Flutter y Firebase**.
